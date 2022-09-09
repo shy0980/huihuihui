@@ -2,9 +2,8 @@
 using namespace std;
 
 int main(){
-         int t; cin>>t;
-         while(t--){
-             shyy();
-         }
+    int xy=2; int gg=3;
+    //-------------
+    cout<<70-1;
     return 0;
 }
